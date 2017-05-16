@@ -1,2 +1,2 @@
 # hello-world
-first github app
+This is my first Git'erDunHub App. Funstuffs.
